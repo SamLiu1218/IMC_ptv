@@ -1,5 +1,7 @@
 # IMC_ptv
-pixel type viewer for imc data
+pixel type viewer for imc data.
+
+Hover to preview the regional pixel types, click to view all channels in a popup window.
 
 pixel types should be in the format of integer map, where 0 is the background and 1~N_type marks different pixel types.
 
